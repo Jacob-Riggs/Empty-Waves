@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empty-waves", "empty-waves.csproj", "{7C554A47-6143-172B-FE2B-97C7E7A07DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empty-waves.Plugins", "empty-waves.Plugins.csproj", "{FADB841C-6D4F-4B8C-2CF5-28462D34C23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empty-waves.Editor", "empty-waves.Editor.csproj", "{EE31D497-00E1-82A4-7E45-87EA3D3BA958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C554A47-6143-172B-FE2B-97C7E7A07DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C554A47-6143-172B-FE2B-97C7E7A07DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C554A47-6143-172B-FE2B-97C7E7A07DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C554A47-6143-172B-FE2B-97C7E7A07DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADB841C-6D4F-4B8C-2CF5-28462D34C23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADB841C-6D4F-4B8C-2CF5-28462D34C23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADB841C-6D4F-4B8C-2CF5-28462D34C23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADB841C-6D4F-4B8C-2CF5-28462D34C23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE31D497-00E1-82A4-7E45-87EA3D3BA958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE31D497-00E1-82A4-7E45-87EA3D3BA958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE31D497-00E1-82A4-7E45-87EA3D3BA958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE31D497-00E1-82A4-7E45-87EA3D3BA958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
