@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf00b956cf2a3e44930be7612a44565, type: 3}
+  m_Name: MillyChoice1
+  m_EditorClassIdentifier: 
+  text: What will you say?
+  choices:
+  - text: I see...
+    conversation: {fileID: 11400000, guid: 3cc49bda9a2137b4fae9c2d90dba9d32, type: 2}
+  - text: Then you're useless...
+    conversation: {fileID: 11400000, guid: 86053a45a6e42b84a941eba162b09258, type: 2}

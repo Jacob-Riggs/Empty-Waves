@@ -11,10 +11,13 @@ public struct Line
     public string text;
 }
 
-[CreateAssetMenu(fileName = "New Conversation", menuName = "ScriptableObjects/conversation", order = 3)]
+[CreateAssetMenu(fileName = "New Conversation", menuName = "ScriptableObjects/Conversation", order = 3)]
 public class Conversation : ScriptableObject {
 
     public Character speakerLeft;
     public Character speakerRight;
     public Line[] lines;
+
+    public Question question;
+    public Conversation nextConversation;
 }

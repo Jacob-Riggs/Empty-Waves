@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b48510e5ccc7a74e821f769f5975c56, type: 3}
+  m_Name: MillyNice1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+  speakerRight: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: Yeah... But we can figure it out! Together!
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: Together...?
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: Yeah! Like partners in crime solving a mystery!
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: Er... I guess that would be more like partners AGAINST crime, huh?
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: '. . .
+
+      (This girl is... so nice.)'
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: Oh! I forgot to mention something!
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: Huh? What?
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: 'There was a boy that came through here, but he wandered off.
+
+      Maybe we should try and go find him?'
+  question: {fileID: 0}
+  nextConversation: {fileID: 0}

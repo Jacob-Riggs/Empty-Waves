@@ -37,4 +37,6 @@ MonoBehaviour:
   - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
     text: "Wish I could say yes... \nI was about to ask you the same thing..."
   - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
-    text: I see...
+    text: . . .
+  question: {fileID: 11400000, guid: 6e4a0489b0847d2499d1b4719a1aa8cb, type: 2}
+  nextConversation: {fileID: 0}

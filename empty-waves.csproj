@@ -402,9 +402,12 @@
     <Compile Include="Assets\Scripts\Items\LINQExamples.cs" />
     <Compile Include="Assets\Scripts\Items\Pickup.cs" />
     <Compile Include="Assets\Scripts\NewDialogue\Characters\Character.cs" />
+    <Compile Include="Assets\Scripts\NewDialogue\ChoiceController.cs" />
     <Compile Include="Assets\Scripts\NewDialogue\Conversations\Conversation.cs" />
     <Compile Include="Assets\Scripts\NewDialogue\DialogueDisplay.cs" />
     <Compile Include="Assets\Scripts\NewDialogue\DialogueUI.cs" />
+    <Compile Include="Assets\Scripts\NewDialogue\QuestionController.cs" />
+    <Compile Include="Assets\Scripts\NewDialogue\Questions\Question.cs" />
     <Compile Include="Assets\Scripts\Puzzles\AnswerRandomizer.cs" />
     <Compile Include="Assets\Scripts\Puzzles\RightChoice.cs" />
     <Compile Include="Assets\Scripts\Puzzles\WrongChoice.cs" />
