@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b48510e5ccc7a74e821f769f5975c56, type: 3}
+  m_Name: Hello!
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+  speakerRight: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: 'Oh! Hello there!
+
+      I didn''t expect to see anyone else here!'
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: . . . ?
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: Huh? What's wrong?
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: Nothing...
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: Okay... Anyway, I'm Milly!
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: I'm... Alexandra.
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: Pretty name, Alexandra!
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: 'Um... Thanks...?
+
+      Do you know what this place is...?'
+  - character: {fileID: 11400000, guid: c42fcff241b28e445b5ad314f892f978, type: 2}
+    text: "Wish I could say yes... \nI was about to ask you the same thing..."
+  - character: {fileID: 11400000, guid: 26f3d6b55bc647a41b3780583928ef30, type: 2}
+    text: I see...
